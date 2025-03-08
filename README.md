@@ -1,5 +1,5 @@
 # Task-1
-code rectangle from javascript
+find area of rectangle
 
 function calculateRectangleArea(length, width) {
     return length * width;
